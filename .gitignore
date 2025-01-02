@@ -1,0 +1,15 @@
+# IDE and editor files #
+########################
+.idea/
+
+# Logs and databases #
+######################
+*.log
+
+# Bitrix specific directories #
+###############################
+bitrix/
+upload/
+local/php_interface/vendor
+html
+
